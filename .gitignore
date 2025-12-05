@@ -1,0 +1,22 @@
+# Vivado generated folders
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+
+# Vivado logs
+*.jou
+*.log
+*.str
+*.pdf
+*.docx
+*.zip
+
+# OS junk
+Thumbs.db
+.DS_Store
+dfx_runtime.txt
